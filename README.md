@@ -1,5 +1,5 @@
 # Backscatter-Communication
-Masters Research at Universtiy of Cambridge Engineering Department
+Masters Research, Universtiy of Cambridge Engineering Department
 
 Exploration of different coding schemes (DS-SS/CSS) and harmonic content using backscatter technique, aiming to maximise RF communincation range
 
