@@ -23,3 +23,9 @@ Exploration of different coding schemes (DS-SS/CSS) and harmonic content using b
 
 
 -An ultimate backscatter communication design was proposed combining the architectures found optimal in both parts of the project. A pseudo-random binary sequence encoded backscatter system, which exploits RCE is presented. An approximate achievable range of 280m was calculated using the combined design.
+
+<p align="center">
+<img width="700" alt="Screenshot 2022-04-01 at 22 37 41" src="https://user-images.githubusercontent.com/71874390/161362599-428f9470-3dfc-4532-9f45-5daf4e49fea0.png">
+</p>
+
+
